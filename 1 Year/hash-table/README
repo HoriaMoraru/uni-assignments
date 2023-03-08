@@ -1,0 +1,11 @@
+README
+
+Am inceput tema prin citirea atenta a enuntului si prin a-mi da seama in ce consta tema.
+Construiesc tabela hash de lungime M cu vectorul de liste v care contine lungimile cuvintelor , ordonate crescator dupa lungime.
+In sublistele asociate pastrez cuvintele impreuna cu frecventa lor (numarul de aparitii), sublistele fiind sortate descrescator in functie de frecventa, iar in cazul
+a doua cuvinte cu un numar egal de aparitii , acestea sunt sortate lexicografic.
+Construiesc structuriile tabelei hash, celulei(listei), a cuvantului si lista de lungimi.
+Creez functii de printare pentru liste , lungimi , pentru cuvant.
+Creez functii de inserare in tabela hash , cat si in liste (o functie de inserare la o anumita pozitie data ca parametru, InsertAtIndex)
+Functia de citire din fisier creata , de asemenea , primeste argumente in linia de comanda .
+Tin sa mentionez ca lipsesc functiile de free , nu am reusit sa fac si valgrind-ul la tema.

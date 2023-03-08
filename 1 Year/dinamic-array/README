@@ -1,0 +1,23 @@
+Am inceput tema prin citirea atenta a enuntului si intelegerea acestuia
+Aloc spatiu pentru 256 de caractere pentru linie si citesc linie cu linie folosing fgets din stdin
+Folosesc strktok pentru a scoate primul cuvant citit care reprezinta comanda ceruta prin enunt
+Folosesc strcmp pentru a compara comanda data din inceput
+In cazul comenzii de insert creez cu stktok un token cu care ma plimb prin functie
+Prima oara tokenul reprezinta tipul pe care il stochez in campul type al structurii head, apoi tokenul devine  primul cuvant , numele dedicatorului , 
+aloc spatiu pentru primul cuvant suficient pentru strlen de cuvant + 1(terminatorul de sir) tokenul apoi constituie prima bacnota care poate fi de tipul
+int8_t , 16_t sau 32_t in functie de type-ul stocat anterior in header , urmatorul token constituie a doua bacnota care este , la fel , de tipurile mentionate
+anterior , aloc memorie pentru fiecare bacnota, tokenul urmator reprezinta numele dedicatorul , pentru care aloc memorie pentru strlen de cuvant + 1(terminatorul de sir)
+cat si pentru primul nume si al doilea dau strcpy tokenului in first si second
+Copiez toate datale de mai sus cu memcpy in campul data al strucuturii data_structure alocata la inceputul functiei si apoi dau free pentru toate bacnotele cat si
+pentru cele doua nume
+Construiesc o functie de add_last pe care o apelez de fiecare data in insert ce mi copiaza datele din campul data al structurii data_structure in vectorul generic arr
+dat ca parametru iar daca vectorul nu este gol realoc memorie pentru un nou element
+Construisc o functie de add_at care foloseste aceeasi sintagma ca si add_last doar ca foloseste un parametru suplimentar , index , care reprezinta pozitia la care
+doresc sa inserez 
+Construiesc o functie de delete_at care imi sterge un element din vectorul genenric prin suprascriere
+Construiesc o functie de print care imi afiseaza toata elementele inserate prin functia de insert confrom sintaxei date in enunt 
+Construiesc o functie de find care foloseste aceeasi logica precum functia de print dar mai primeste un parametru index , afisand astfel doar structura aflata
+la indexul specificat
+In main folosesc strcmp pentru a distinge din input comanda si in functie de comanda apelez functia necesara
+De asemenea creez si o comanda de exit care imi opreste programul si imi elibereaza memoria pentru vector cat si pentru linie
+La finalul functiei de insert eliberez memoria pentru datele alocata , respectiv data->header, data->data cat si data in aceasta ordine.

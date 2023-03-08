@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebcae2d2-bade-459a-a005-e76a8d1c2d3d" name="Changes" comment=" Tema finala si retusari" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tema 1 POO" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tema 1 POO" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HgEdWZWbvoNobrkCQIP20AKqr6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/horia/Desktop/Faculta/lab-uri/POO/lab8",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.TestTema1">
+    <configuration name="Tema" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.Tema1" />
+      <option name="PROGRAM_PARAMETERS" value="-cleanup-all" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTema1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.project.TestTema1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTema1.testDeleteQuizNotFound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.project.TestTema1.testDeleteQuizNotFound&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTema1.testGetAllQuizezSuccessfully" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.project.TestTema1.testGetAllQuizezSuccessfully&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTema1.testSubmitQuizAnsweredWrong" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.project.TestTema1.testSubmitQuizAnsweredWrong&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestTema1.testSubmitQuizNotFound" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.project.TestTema1.testSubmitQuizNotFound&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Tema" />
+      <item itemvalue="Gradle.TestTema1.testDeleteQuizNotFound" />
+      <item itemvalue="Gradle.TestTema1.testGetAllQuizezSuccessfully" />
+      <item itemvalue="Gradle.TestTema1.testSubmitQuizNotFound" />
+      <item itemvalue="Gradle.TestTema1.testSubmitQuizAnsweredWrong" />
+      <item itemvalue="Gradle.TestTema1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestTema1" />
+        <item itemvalue="Gradle.TestTema1.testSubmitQuizNotFound" />
+        <item itemvalue="Gradle.TestTema1.testGetAllQuizezSuccessfully" />
+        <item itemvalue="Gradle.TestTema1.testDeleteQuizNotFound" />
+        <item itemvalue="Gradle.TestTema1.testSubmitQuizAnsweredWrong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebcae2d2-bade-459a-a005-e76a8d1c2d3d" name="Changes" comment="" />
+      <created>1668698413981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668698413981</updated>
+      <workItem from="1668698415679" duration="135000" />
+      <workItem from="1668873999917" duration="720000" />
+      <workItem from="1668952742547" duration="13618000" />
+      <workItem from="1669027580555" duration="839000" />
+      <workItem from="1669028431223" duration="376000" />
+      <workItem from="1669028819425" duration="1229000" />
+      <workItem from="1669030058378" duration="36000" />
+      <workItem from="1669030105346" duration="98000" />
+      <workItem from="1669030214289" duration="121000" />
+      <workItem from="1669030345739" duration="1074000" />
+      <workItem from="1669065757858" duration="1097000" />
+      <workItem from="1669108951090" duration="228000" />
+      <workItem from="1669109430122" duration="4000" />
+      <workItem from="1669299409392" duration="13000" />
+      <workItem from="1669326475424" duration="10088000" />
+      <workItem from="1669389107907" duration="1733000" />
+      <workItem from="1669391921810" duration="3020000" />
+      <workItem from="1669417363314" duration="9739000" />
+      <workItem from="1669453584972" duration="21506000" />
+      <workItem from="1669636001236" duration="8553000" />
+      <workItem from="1669656021525" duration="2316000" />
+      <workItem from="1669658355160" duration="4929000" />
+      <workItem from="1669730630819" duration="8468000" />
+      <workItem from="1669739119607" duration="687000" />
+      <workItem from="1669739819253" duration="4230000" />
+      <workItem from="1669744067300" duration="13651000" />
+      <workItem from="1669807118367" duration="8762000" />
+      <workItem from="1669839521542" duration="42000" />
+      <workItem from="1669839684733" duration="661000" />
+      <workItem from="1669895790889" duration="23498000" />
+      <workItem from="1669935977685" duration="9384000" />
+      <workItem from="1669988986601" duration="17512000" />
+      <workItem from="1670067167477" duration="20205000" />
+      <workItem from="1670091897217" duration="467000" />
+      <workItem from="1670092632273" duration="730000" />
+      <workItem from="1670161471801" duration="173000" />
+      <workItem from="1670175219258" duration="224000" />
+      <workItem from="1670223627649" duration="41000" />
+      <workItem from="1670438595937" duration="2677000" />
+      <workItem from="1670456675811" duration="968000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tema">
+      <created>1669936081056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669936081056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tema">
+      <created>1670090929704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670090929704</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" Tema finala">
+      <created>1670092121872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670092121872</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" Tema finala si retusari">
+      <created>1670439928879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670439928879</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Tema finala si retusari">
+      <created>1670440312860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670440312860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Tema" />
+    <MESSAGE value=" Tema finala" />
+    <MESSAGE value=" Tema finala si retusari" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Tema finala si retusari" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

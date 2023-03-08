@@ -1,0 +1,19 @@
+Am inceput prin implementarea a doi arbori binari de cautare , unul pentru directoare si unul pentru fisiere
+Initiliazez in main directorul parinte , root ,  conform cerintei, cat si un director "curent" cu care ma plimb si
+pe care initial il initializez cu root
+Functiile mkdir , respectiv touch imi creeaza un nou director/fisier inserandu-l pe pozitia corecta comparand
+lexicografic numele fisierului/directorului cu restul directoarelor/fisierelor
+Functia ls imi afiseaza subdirectoarele si fisierele directorului curent
+Functiile de rm si rmdir imi sterg un nod din arbore . Aici am luat mai multe cazuri, cand nod-ul este frunza,
+sau atunci cand are unul sau doi copii. De asemenea folosesc si o functie auxiliara , minvalue care imi parcurge
+arborele pe partea stranga , returand nodul cu cea mai mic valoare lexicografia
+Functia cd imi schimba directorul curent , aceasta poate fii apelata fie prin cd .. , caz in care verific daca directorul
+curent este root , iar daca este root cd .. ma va intoarce tot in root. Parcurg arborele pana la directorul cautat
+In functia pwd afiseaza calea directorului curent. Aloc static doua string-uri , unul in care voi retine path-ul efectiv
+si unul auxiliar , concatenez cele doua string-uri si apoi merg pe parinti.
+Functia fiind imi cauta un director (global) si imi afiseaza calea acestuia , primind ca parametru fie -f, pentru fisiere
+fie -d pentru directoare. Parcurg arborele recursiv la stanga , la dreapta si in arborele de subdirectoare.
+In main citesc linie cu linie din fisier cu fgets
+Cu strtok iau comanda , o compar cu cea din input . Chestii basic
+Am incercat sa fac si bonusul full , dar nu mi-a iesit si nu am avut nici prea mult timp sa stau de capul lui :(
+Te pup Bogdan , daca citesti . Daca este altcineva care citeste , te pup si pe tine , sigur esti misto si tu .
